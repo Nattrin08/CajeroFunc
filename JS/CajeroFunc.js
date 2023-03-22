@@ -48,5 +48,5 @@ switch (opc2) {
 
         break;
     default:
-        alert("La opción no es valida");
+        alert("no es valida");
 }
